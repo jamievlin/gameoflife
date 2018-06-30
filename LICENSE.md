@@ -1,5 +1,3 @@
-﻿MIT License
-
 Copyright (c) 2018 Supakorn Rassameemasmuang
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
